@@ -1,0 +1,15 @@
+
+functionaliteit {
+  spelers toevoegen,
+  spelers verwijderen,
+  score bijhouden,
+    geen punten = +5
+    per punt - hoeveelheid punten
+    echte = -10 voor de legger +10 voor de rest
+    neppert = 5 voor de legger +5 voor de rest
+  bijhouden wie moet geven
+}
+
+extra's {
+  als je op 10 staat de 10 veranderen voor friet emoji
+}

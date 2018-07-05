@@ -1,0 +1,22 @@
+{
+  "name": "miezele",
+  "version": "0.0.1",
+  "description": "app to keep track of card game",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReaperOfVeriod/Miezele.git"
+  },
+  "author": "ReaperOfVeriod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReaperOfVeriod/Miezele/issues"
+  },
+  "homepage": "https://github.com/ReaperOfVeriod/Miezele#readme",
+  "devDependencies": {
+    "electron": "2.0.4"
+  }
+}
